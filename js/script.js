@@ -62,16 +62,4 @@ if (prevButton.hasClass('first')){
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 }
-// ss
